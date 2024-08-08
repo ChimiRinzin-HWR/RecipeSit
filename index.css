@@ -62,7 +62,7 @@ h1{
 }
 @font-face {
     font-family: 'Young-Serif';
-    src: url(./assets/fonts/young-serif/YoungSerif-Regular.ttf);
+    src: url(./recipe-page-main/assets/fonts/young-serif/YoungSerif-Regular.ttf);
 }
 .preptime{
     border-radius: 10px;
@@ -84,7 +84,7 @@ h1{
 }
 @font-face {
     font-family: 'Outfit';
-    src: url('./assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+    src: url('./recipe-page-main/assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
 }
 .instru{
     border-top: 1px solid var(--color-stone-150);
